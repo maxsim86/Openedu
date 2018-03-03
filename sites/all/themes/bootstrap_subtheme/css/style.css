@@ -1,3 +1,6 @@
 /**
  * Place your custom styles here.
  */
+
+*/ Artikel /*
+.node-type-article .field-name-field-image img{ max-width: 100%; heigh: auto; }
