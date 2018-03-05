@@ -2,9 +2,11 @@
  * Place your custom styles here.
  */
 
-*/ Artikel /*
-.node-type-article .field-name-field-image img{ max-width: 100%; heigh: auto; }
 
 
-.node-type-article .views-field views-field-field-banyak-gambar .col{ margin-bottom: 20px; }
-.node-type-article .views-field views-field-field-banyak-gambar .modal-body img{ width: 100%; height: auto; }
+/*Nagigation*/
+.navbar-nav span{ margin-right: 5px; }
+
+/* Footer */
+.footer{ margin-top: 15px; border: 0 none; bottom: 0; width: 100%; z-index: 9; padding-bottom: 15px; background-color: #1b2a38; color: #e95420; }
+.footer a{ color: #fff; }
